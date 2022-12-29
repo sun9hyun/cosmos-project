@@ -1,4 +1,4 @@
-# 🌟 cosmos-project 🌟
+# 🪐 cosmos-project 🪐
 - 스터디와 프로젝트 모집 서비스 플랫폼
 
 ## ✏ 프로젝트 목적 
